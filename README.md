@@ -1,6 +1,6 @@
-# itoju_mobile
+# health_tracker_mobile
 
-Itoju Mobile!
+Health Tracker Mobile!
 
 ## Getting Started
 

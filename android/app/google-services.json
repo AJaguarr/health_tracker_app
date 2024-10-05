@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "408390509656",
+    "project_id": "itoju-7c0f0",
+    "storage_bucket": "itoju-7c0f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408390509656:android:c5ebfe15f9816a1332162d",
+        "android_client_info": {
+          "package_name": "com.example.itoju_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408390509656-okek4uhov71isbocbvko30vnkmnr9rov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itoju_mobile",
+            "certificate_hash": "93a311268326c4e9914ec47952b6cd561523bf0c"
+          }
+        },
+        {
+          "client_id": "408390509656-rtau2hhsp10qkv5s4njebfc9kdsfp996.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCMAu0_9GX9DBF9s-xXRzM818GsarBUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408390509656-rtau2hhsp10qkv5s4njebfc9kdsfp996.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408390509656-qkpjaihr02gmlvhl7ke56k0ieql0ek8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.itojuMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
